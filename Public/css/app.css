@@ -1,0 +1,254 @@
+body {
+	margin:0px; padding:0px; font-size:12px; color:#333333; line-height:20px; 
+}
+body a{
+	color:#666666; text-decoration:none
+}
+.header {
+	width:920px; height:300px; overflow:hidden; margin-left:auto; margin-right:auto; background:url(../images/topbg.png) no-repeat; padding-right:40px; padding-left:40px; padding-top:10px
+}
+.inputsearch {
+	height:26px; line-height:26px; color:#666666;  width:130px; font-size:12px; overflow:hidden; padding:0px; margin:0px; padding-left:7px; border:none
+}
+.btgo {
+	width:26px; height:26px;  color:#FFFFFF; background:#3A8C38; font-size:13px; font-weight:bold; font-family:Arial, Helvetica, sans-serif; padding:0px; margin:0px; border:none
+}
+.a1 a {
+	font-family:"寰蒋闆呴粦";  color:#ffffff
+}
+.a1 a:hover {
+	border-bottom:1px dotted #BF2E2B; color:#ffffff
+}
+
+.more1 a {
+	color:#666666
+}
+.more1 a:hover {
+	border-bottom:1px dotted #396935; color:#396935; font-weight:bold
+}
+.title1 {
+	font-size:14px; font-weight:bold; color:#346C2F; 
+}
+.title2 {
+	font-size:12px; font-weight:bold; color:#ffffff; padding-left:10px
+}
+
+.szhknews {
+	padding:10px; padding-left:0px
+}
+.szhknews div {
+	margin-bottom:5px
+}
+.szhknews a {
+	font-weight:normal; color:#666666
+}
+.szhknews a:hover {
+	border-bottom:1px dotted #396935; color:#396935; 
+}
+
+
+.newstitle {
+	padding:10px; border:1px dotted #cccccc
+}
+.newstitle div {
+	margin-bottom:5px
+}
+.newstitle a:hover {
+	border-bottom:1px dotted #396935; color:#396935; 
+}
+.newstitle span {
+	font-family:"瀹嬩綋"
+}
+.newstitle font {
+	color:#666666
+}
+.newstitle2 {
+	padding:10px; border:1px dotted #cccccc; color:#666666; padding-bottom:5px; padding-top:4px
+}
+.newstitle2 div {
+	text-align:center; line-height:23px
+}
+.newstitle2 div a{
+	font-size:14px; color:#333333; font-weight:bold
+}
+.newstitle2 div a:hover{
+	border-bottom:1px dotted #396935; color:#396935; 
+}
+.footer {
+	background:#7D8286; color:#FFFFFF; text-align:center; line-height:40px; margin-top:20px; padding-bottom:20px; padding-top:10px
+}
+.footer a {
+	color:#FFFFFF
+}
+.leftmenu a {
+	padding-left:40px; padding-right:40px; padding-bottom:10px; padding-top:10px; background:#83C326; font-size:14px; color:#FFFFFF; line-height:40px
+}
+.leftmenu a:hover {
+	background:#7BC5A0
+}
+.word1 {
+	line-height:25px; font-size:13px; font-family:"瀹嬩綋"
+}
+.title3 {
+	color:#83C326; font-size:35px; font-weight:bold; width:920px; margin-left:auto; margin-right:auto; padding-top:50px; padding-bottom:20px; margin-bottom:35px; border-bottom:1px solid #CCCCCC
+}
+.time1 {
+	color:#999999
+}
+.word1 a {
+	color:#417D0B; font-weight:bold
+}
+.word1 a:hover {
+	color:#7BC5A0
+}
+.word2 {
+	color:#999999; padding-bottom:10px; border-bottom:1px dotted #CCCCCC
+}
+.tablenews {
+	margin-bottom:10px
+}
+.pagebar {
+	text-align:center; padding:20px
+}
+.pagebar a {
+	padding:7px; background:#FFFFFF; border:1px solid #CCCCCC; color:#83C326; margin-left:1px; margin-right:1px; padding-bottom:4px; padding-top:4px
+}
+.pagebar .current_page {
+	background: #83C326; color: #fff;
+}
+.pagebar a:hover {
+	background:#83C326; color:#FFFFFF
+}
+.title4 {
+	color:#83C326; font-size:14px; font-weight:bold; line-height:30px; border-bottom:1px dotted #CCCCCC
+}
+.title4 span {
+	font-size:12px; font-weight:normal; color:#999999
+}
+.title5 {
+	color:#396935; font-size:35px; font-weight:bold; width:920px; margin-left:auto; margin-right:auto; padding-top:50px; padding-bottom:20px; margin-bottom:35px; border-bottom:1px solid #CCCCCC
+}
+.word3 {
+	padding-top:20px; padding-bottom:20px
+}
+.word4 {
+	padding-top:20px; padding-bottom:20px
+}
+.word4 div {
+	width:155px; height:330px; overflow:hidden; float:left; margin-right:10px
+}
+.word4 div img {
+	padding:4px; border:1px solid #CCCCCC; margin-bottom:15px
+}
+.teamphoto {
+	text-align:center
+}
+.teamphoto a img {
+	padding:4px; border:1px solid #CCCCCC; margin-bottom:15px
+}
+
+.pdflist div {
+	height:220px;  width:104px; overflow:hidden; float:left; margin-right:11px; font-size:14px; margin-bottom:8px
+}
+.pdflist a:hover {
+	color:#83C326
+}
+.pdflist a img {
+	border:2px solid #cccccc; margin-bottom:10px
+}
+.pdflist a:hover img{
+	border:2px solid #83C326
+}
+
+.pdfview div {
+	height:650px;  width:460px; overflow:hidden; float:left;
+}
+
+/* CSS For Dropdown Menu Start */
+.menu ul
+{
+  list-style:none;
+  padding:0px;
+  margin:0px
+}
+
+.menu ul li
+{
+  display:inline;
+  float:left;
+}
+
+.menu ul li a
+{
+  color:#ffffff;
+  background:#396935;
+  margin-right:5px;
+  font-weight:bold;
+  font-size:14px;
+  font-family:verdana;
+  text-decoration:none;
+  display:block;
+  width:100px;
+  height:30px;
+  line-height:30px;
+  text-align:center;
+  border: 1px solid #396935;
+}
+
+.menu ul li a:hover
+{
+  color:#ffffff;
+  background:#366935;
+  font-weight:bold;
+  text-decoration:none;
+  display:block;
+  width:100px;
+  text-align:center;
+  border: 1px solid #366935;
+}
+
+.menu ul li.sublinks a
+{
+  color:#000000;
+  background:#f6f6f6;
+  font-weight:normal;
+  text-decoration:none;
+  display:block;
+  width:100px;
+  text-align:center;
+}
+
+.menu ul li.sublinks a:hover
+{
+  color:#000000;
+  background:#FFEFC6;
+  font-weight:normal;
+  text-decoration:none;
+  display:block;
+  width:100px;
+  text-align:center;
+}
+
+.menu ul li.sublinks
+{
+	display:none;
+}
+
+/* CSS For Dropdown Menu End */
+
+
+
+.clear
+{
+  clear:both;
+}
+
+.left
+{
+  float:left;
+}
+
+.right
+{
+  float:right;
+}
