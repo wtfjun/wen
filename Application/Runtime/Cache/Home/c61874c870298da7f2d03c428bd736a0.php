@@ -96,17 +96,17 @@
 			<a href="xspage?id=5">获奖信息</a>		</li>
 	</ul>
 	<ul>
-		<li><a href="event_view.asp?id=20" class="dropdown">品牌建设</a></li>
+		<li><a href="event_view?id=1" class="dropdown">品牌建设</a></li>
 		<li class="sublinks">
-			<a href="event_view.asp?id=20">创新论坛</a>
-			<a href="event_view.asp?id=22">调研报告</a>
-			<a href="event_view.asp?id=23">城市创意指数</a>
+			<a href="event_view?id=1">创新论坛</a>
+			<a href="event_view?id=2">调研报告</a>
+			<a href="event_view?id=3">城市创意指数</a>
 		</li>
 	</ul>
     <ul>
-		<li><a href="edupage.asp?id=556" class="dropdown">人才培养</a></li>
+		<li><a href="edupage?id=1" class="dropdown">人才培养</a></li>
 		<li class="sublinks">
-			<a href="edupage2.asp?id=556">荔园课库</a>
+			<a href="edupage2?id=1">荔园课库</a>
 			<!--<a href="special.asp">项目风采</a>
 			<a href="edunews.asp?id=13">在线课堂</a>
 			<a href="edunews.asp?id=14">培训动态</a>-->
@@ -114,10 +114,10 @@
 		</li>
 	</ul>
 	<ul>
-		<li><a href="news.asp?id=75" class="dropdown">合作交流</a></li>
+		<li><a href="teamwork?id=1" class="dropdown">合作交流</a></li>
 		<li class="sublinks">
-			<a href="news.asp?id=75">学术交流</a>
-			<a href="news.asp?id=76">学术合作</a>
+			<a href="teamwork?id=1">学术交流</a>
+			<a href="teamwork?id=2">学术合作</a>
 		</li>
 	</ul>
 	</td>
