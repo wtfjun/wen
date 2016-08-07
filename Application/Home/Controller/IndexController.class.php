@@ -8,7 +8,7 @@ class IndexController extends Controller {
     }
     public function page(){
     	$id = $_GET['id'];
-    	$this->display('Index/page/'.$id);
+    	$this->display('index/page/'.$id);
     }
     public function news(){
     	$id = $_GET['id'];
